@@ -1,0 +1,27 @@
+.wetherBg{
+  background:linear-gradient(yellow,orange,rgb(4, 4, 4));
+  height: 50vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+
+}
+
+.heading{
+  color:rgb(234, 22, 178);
+  font-weight: 600;
+}
+
+.wetherResultBox{
+  margin: auto;
+  height: 300px;
+  background-color: rgb(23, 216, 250);
+}
+
+.weatherCity{
+  font-size: 35px;
+}
+.weatherTemp{
+  font-size: 55px;
+}
